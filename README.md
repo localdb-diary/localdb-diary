@@ -14,7 +14,7 @@
 * **Frontend** : Vue 3, Quasar, React, Next.js, Electron
 * **Browser Automation** : Playwright, Web Crawling, Browser Automation, E2E Test Automation, RPA
 * **AI** : AWS Bedrock, LiteLLM, LLM Integration, RAG, AI Agent
-* **Database** : PostgreSQL, Redis
+* **Database** : PostgreSQL, Oracle, Redis
 * **Cloud** : AWS (EC2, RDS, S3, IAM, CloudFront, Route 53)
-* **DevOps** : Docker, Docker Compose, Kubernetes, Nginx, GitHub Actions, CI/CD, Linux (Ubuntu), PM2
+* **DevOps** : Docker, Docker Compose, Kubernetes, Nginx, GitHub Actions, CI/CD, Linux (Ubuntu), PM2 (무중단 CI/CD)
 * **Architecture** : SSR / CSR, Service Architecture, System Design, API Design, Database Design, Cloud Architecture, Distributed Systems
