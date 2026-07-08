@@ -9,8 +9,8 @@
 
 ### Tech Stack
 
-* **Languages** : TypeScript, JavaScript
-* **Backend** : NestJS, Node.js, Express, TypeORM
+* **Languages** : TypeScript · Java · SQL (ANSI SQL)
+* **Backend** : SpringBoot, MyBatis, JPA, Node.js, NestJS, TypeORM
 * **Frontend** : Vue 3, Quasar, React, Next.js, Electron
 * **Browser Automation** : Playwright, Web Crawling, Browser Automation, E2E Test Automation, RPA
 * **AI** : AWS Bedrock, LiteLLM, LLM Integration, RAG, AI Agent
