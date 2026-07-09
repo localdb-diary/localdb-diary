@@ -16,5 +16,5 @@
 * **AI** : AWS Bedrock, LiteLLM, LLM Integration, RAG, Langchain4J, AISDK(Vercel), AI Agent
 * **Database** : PostgreSQL, Oracle, Redis
 * **Cloud** : AWS (EC2, RDS, S3, IAM, CloudFront, Route 53)
-* **DevOps** : Docker, Docker Compose, Kubernetes, Nginx, GitHub Actions, CI/CD, Linux (Ubuntu), PM2 (무중단 CI/CD)
+* **DevOps** : Docker Compose, Kubernetes, Nginx, GitHub Actions, CI/CD, Linux (Ubuntu), PM2 (무중단 CI/CD)
 * **Architecture** : SSR / CSR, Service Architecture, System Design, API Design, Database Design, Cloud Architecture, Distributed Systems
