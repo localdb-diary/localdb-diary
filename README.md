@@ -13,7 +13,7 @@
 * **Backend** : SpringBoot, MyBatis, JPA, Node.js, NestJS, TypeORM
 * **Frontend** : Vue 3, Quasar, React, Next.js, Electron
 * **Browser Automation** : Playwright, Web Crawling, Browser Automation, E2E Test Automation, RPA
-* **AI** : AWS Bedrock, LiteLLM, LLM Integration, RAG, AI Agent
+* **AI** : AWS Bedrock, LiteLLM, LLM Integration, RAG, Langchain4J, AISDK(Vercel), AI Agent
 * **Database** : PostgreSQL, Oracle, Redis
 * **Cloud** : AWS (EC2, RDS, S3, IAM, CloudFront, Route 53)
 * **DevOps** : Docker, Docker Compose, Kubernetes, Nginx, GitHub Actions, CI/CD, Linux (Ubuntu), PM2 (무중단 CI/CD)
